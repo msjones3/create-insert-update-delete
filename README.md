@@ -1,5 +1,5 @@
 # Create Insert Update Delete - SQL and Python
-
+## Work to do:
 - First, carefully examine this [Google File:](https://docs.google.com/document/d/1-FcIeVUaRaEDmt5pGsDfiye6bfrdFk9tkUn-7HXRBI0/edit?usp=sharing) 
 
 - Annotate next to each program what happens with each code block.
