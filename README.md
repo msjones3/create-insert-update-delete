@@ -14,5 +14,5 @@ Find a way to add a teacherID to a student record (e.g. You could add one teache
 **Bonus:**
 Make this a text input so that the user can:
 - select student and save this to a variable
-- select a teacher and save this to a variable
+- select a teacher and save the teacherID to a variable
 - update the student to add the teacherID to the new field (hint: you'll need to look at some of the insert files from the other day to help.... ?, ? )
